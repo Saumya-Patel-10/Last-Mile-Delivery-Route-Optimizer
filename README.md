@@ -1,4 +1,4 @@
-# Last-Mile Delivery Route Optimizer (VRPTW)
+Last-Mile Delivery Route Optimizer (VRPTW)
 
 A small, **dependency-free** Python toolkit for planning a single delivery
 vehicle's route through a depot and *N* customer stops, each with a delivery
